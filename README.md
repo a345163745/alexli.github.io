@@ -18,5 +18,6 @@ The Linear Model(Daily_Vaccination as a indepenent variable to predict the growt
 ![Figure_1](https://user-images.githubusercontent.com/44101210/144101668-a6ea8d3e-5e95-4f44-b2ae-2a602d6aabe7.png)
 
 
+
 The Double-Bar Chart below shows the cumulative Vaccination and Covid cases from January to November in 2021.
 ![Figure_2](https://user-images.githubusercontent.com/44101210/144101681-6ff032ac-ae77-48ad-8dff-e9f80ff10531.png)
