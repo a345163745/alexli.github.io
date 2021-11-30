@@ -6,7 +6,7 @@
 
 **Theme:** Vaccination, Covid-19, Health
 
-**Description:** The outcome I would like to see from this project is to show that the more people get vaccinated in NY would lower the growing number of covid cases in New York. For the data collection part, I collected daily vaccination and daily new covid cases from January 12, 2021, to November 4, 2021, and try to predict the covid cases based on the vaccination data using a Linear regression model and also double bar chart to compared both data and see if the vaccination data increase for each month helps lower the new covid cases monthly.
+**Description:** The outcome I would like to see from this project is to show that the more people get vaccinated in NY would lower the growing number of covid cases in New York. For the data collection part, I collected daily vaccination and daily new covid cases from January 12, 2021, to November 4, 2021, and try to predict the covid cases based on the vaccination data using a Linear regression model and also double bar chart to compare both data and see if the vaccination data increase for each month helps lower the new covid cases monthly.
 
 **Relavance:** The data are focused in NY state only.
 
@@ -21,3 +21,5 @@ The Linear Model(Daily_Vaccination as a indepenent variable to predict the growt
 
 The Double-Bar Chart below shows the cumulative Vaccination and Covid cases from January to November in 2021.
 ![Figure_2](https://user-images.githubusercontent.com/44101210/144101681-6ff032ac-ae77-48ad-8dff-e9f80ff10531.png)
+
+
