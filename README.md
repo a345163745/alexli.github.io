@@ -24,10 +24,10 @@ The Double-Bar Chart below shows the cumulative Vaccination and Covid cases from
 
 As we can see from the chart, there is tremendous growth in the amount of vaccination from January to April and we can see the total number of COVID cases decrease in that month as the vaccination number continues to go up. Between May and June we see a decreasing number in vaccination, but the COVID case seems not affected by the decreasing number in vaccination since the number of vaccination is large enough to lower the COVID case down. However, between July to September, the COVID case started to grow back up again as the vaccination number fell under 1.5 million. Until the vaccination number reached over 1.5 million in October, the COVID started to go back down again. Thus, we can assume that New York State required over 1.5 million people to be vaccinated each month in order to lower the growing number of COVID cases in each month. 
 
-##Overview
+## Overview
 My underlying hypothesis was that the more people in New York state get vaccinated, the lower the number of covid cases growing in New York state. I used covid case dataset and vaccination dataset from NYTimes and owid GitHub and I used DateTime to filter the date range in 2021 only then I filtered the data only in New York state. Then I can use it in a linear model to predict covid cases based on the vaccination data. Then I merged both covid cases and vaccination data together and aggregate them using group by date, and sum them up so I can use them in a bar chart to do a comparison by month in 2021.
 
-##Citation
+## Citation
 1. https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html
 2. Textbook 
 3. Homework assignment
