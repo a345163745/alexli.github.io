@@ -1,5 +1,7 @@
 # Data_Science_Project
 
+![COVID-vaccine-700x400](https://user-images.githubusercontent.com/44101210/145080921-77129c1e-9e96-4ddc-868e-49bd8bece216.jpg)
+
 ## Abstract
 
 **Title:** Does the vaccine help lower the growing case of Covid 19 in New York?
